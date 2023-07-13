@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+#button-5{
+	width:100%;
+}
+#button-2{
+	border: 1px solid black;
+}
+#button-3{
+	padding: 15px;
+}
+#button-4{
+	padding: 4px;
+}
+#button-8{
+	color: blue;
+	text-decoration: underline;
+}
